@@ -1,6 +1,4 @@
-# haotuoguan-vue
-
-> a vue project of haotuoguan
+# h-t-g
 
 ## Build Setup
 
