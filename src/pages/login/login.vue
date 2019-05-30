@@ -2,7 +2,7 @@
   <div class="wrapper">
     <div class="img-div">
       <img class="img logo" src="./logo-.png" alt>
-      <p class="aqxy">安亲校园</p>
+      <p class="aqxy">aqxy</p>
     </div>
     <div class="form-div">
       <div class="input-div">

@@ -7,7 +7,7 @@
           class="a"
           href="javascript:void(0)"
           @click="toHelpLaoshiPage('help-laoshi-1')"
-        >安亲校园APP总体介绍</a>
+        >aqxyAPP总体介绍</a>
       </li>
       <li class="li">
         二、
